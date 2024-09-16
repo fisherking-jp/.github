@@ -1,0 +1,6 @@
+{
+  "files": ["**", ".*/**"],
+  "ignorePaths": [".git", ".gitignore"],
+  "caseSensitive": true,
+  "words": []
+}

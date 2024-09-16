@@ -1,0 +1,6 @@
+repos:
+  - repo: https://github.com/streetsidesoftware/cspell-cli
+    rev: v8.13.3
+    hooks:
+      - id: cspell
+        always_run: true
