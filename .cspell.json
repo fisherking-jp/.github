@@ -2,5 +2,5 @@
   "files": ["**", ".*/**"],
   "ignorePaths": [".git", ".gitignore"],
   "caseSensitive": true,
-  "words": []
+  "words": ["shintaro", "yoshida", "fisherking"]
 }
