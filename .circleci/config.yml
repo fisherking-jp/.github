@@ -38,7 +38,7 @@ jobs:
       - checkout
       - run:
           name: Install npm packages
-          command: yarn
+          command: yarn add cspell-cli
       - run:
           name: Run spell-checker
           command: |
