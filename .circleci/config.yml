@@ -30,8 +30,8 @@ executors:
 # --------
 jobs:
   linter:
-  # List of the linter : 
-  # * spell-checker by cspell.
+    # List of the linter :
+    # * spell-checker by cspell.
     executor:
       name: linter
     steps:
